@@ -1,6 +1,5 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/79731568097599.5b50bca477735.jpg)
 <h1 align="center">Hi 👋, I'm Kanwaljeet Singh</h1>
-<img align="right" alt="Coding" width="400" src="https://physicsgurukul.com/wp-content/uploads/2019/02/character-1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanwaljeetsingh7887&label=Profile%20views&color=0e75b6&style=flat" alt="kanwaljeetsingh7887" /> </p>
 
